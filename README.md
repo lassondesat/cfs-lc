@@ -1,6 +1,6 @@
 # cFS: Limit Checker
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-lc.svg)](https://github.com/yusend/cfs-lc/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-lc.svg)](https://github.com/lassondesat/cfs-lc/releases)
 
 * [Original README](cfs-lc-app-OSS-readme.txt)
 
@@ -31,5 +31,5 @@ command script may be initiated to respond/react to the threshold violation.
 
 * https://sourceforge.net/projects/cfs-lc/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
